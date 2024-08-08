@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shipra100/addvalue/static/css/main.5ea36e64.css",
+    "main.js": "/shipra100/addvalue/static/js/main.95a2a341.js",
+    "static/js/453.9827e471.chunk.js": "/shipra100/addvalue/static/js/453.9827e471.chunk.js",
+    "index.html": "/shipra100/addvalue/index.html",
+    "main.5ea36e64.css.map": "/shipra100/addvalue/static/css/main.5ea36e64.css.map",
+    "main.95a2a341.js.map": "/shipra100/addvalue/static/js/main.95a2a341.js.map",
+    "453.9827e471.chunk.js.map": "/shipra100/addvalue/static/js/453.9827e471.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ea36e64.css",
+    "static/js/main.95a2a341.js"
+  ]
+}
